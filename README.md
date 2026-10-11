@@ -1,2 +1,2 @@
-# Final-Assignment-Acquiring-and-Processing-Information-on-the-World-s-Largest-Banks
+# Final Assignment Acquiring and Processing Information on the Worlds Largest Banks
 Coursera
